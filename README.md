@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Sou+Matheus+Betelli+dos+Santos;Estudante+de+Big+Data+no+Agro;Interessado+em+Inovação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Sou+Matheus+Betelli+dos+Santos;Estudante+de+Big+Data+no+Agro;Interessado+em+Inovacao" alt="Typing SVG" />
 </h1>
 
 ---
