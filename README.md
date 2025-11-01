@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante do curso **Big Data no Agronegócio** na FATEC Pompeia (Campus Shunji Nishimura)  
-- 💡 Gosto de **desenvolver projetos em Java e Python**  
+- 💡 Gosto de **desenvolver projetos**  
 - 📈 Busco **aprimorar meus conhecimentos e contribuir** com soluções inovadoras  
 - ✉️ Contato: [mat23.betelli@gmail.com](mailto:mat23.betelli@gmail.com)
 
