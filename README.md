@@ -19,21 +19,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBetelli&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBetelli&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Conquistas
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusBetelli&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ### 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com" target="_blank">
